@@ -1,6 +1,6 @@
 # HLS_labA
 ug871-vivado-high-level-synthesis-tutorial
-
+包含兩個lab (MACC、FFT)
 	lab1/
     HLS_macc/
       	IP/
